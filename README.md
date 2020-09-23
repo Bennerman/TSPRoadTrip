@@ -15,7 +15,7 @@ For example (from WIKI):
  
  I calculated distances using the Haversine formula, though currently,
  you have to manually have to find the coordinates of your sight-seeing destinations/nodes.
- Hopefully i will fix this with a geocoding in the future.
+ Hopefully i will fix this with geocoding in the future.
  
  
 
